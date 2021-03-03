@@ -17,7 +17,7 @@
     "migrate": "^1.6.2",
     "morgan": "~1.9.1",
     "pg": "^8.0.3",
-    "pug": "^2.0.4",
+    "pug": "^3.0.1",
     "serve-favicon": "^2.5.0"
   },
   "devDependencies": {
